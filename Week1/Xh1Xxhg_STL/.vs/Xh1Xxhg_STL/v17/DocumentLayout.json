@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitProSpace\\Road_To_The_Top\\Week1\\Xh1Xxhg_STL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C70A059D-3DC1-4BA8-B163-53B31003D577}|Xh1Xxhg_STL\\Xh1Xxhg_STL.vcxproj|D:\\GitProSpace\\Road_To_The_Top\\Week1\\Xh1Xxhg_STL\\Xh1Xxhg_STL\\test_STL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C70A059D-3DC1-4BA8-B163-53B31003D577}|Xh1Xxhg_STL\\Xh1Xxhg_STL.vcxproj|solutionrelative:Xh1Xxhg_STL\\test_STL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_STL.cpp",
+              "DocumentMoniker": "D:\\GitProSpace\\Road_To_The_Top\\Week1\\Xh1Xxhg_STL\\Xh1Xxhg_STL\\test_STL.cpp",
+              "RelativeDocumentMoniker": "Xh1Xxhg_STL\\test_STL.cpp",
+              "ToolTip": "D:\\GitProSpace\\Road_To_The_Top\\Week1\\Xh1Xxhg_STL\\Xh1Xxhg_STL\\test_STL.cpp",
+              "RelativeToolTip": "Xh1Xxhg_STL\\test_STL.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T17:32:37.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
